@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SredniaArytmetyczna</string>
+    <string name="activ1_nameTextView">Imię</string>
+    <string name="activ1_nameEditText_hint">Wpisz imię</string>
+    <string name="activ1_surnameTextView">Nazwisko</string>
+    <string name="activ1_surnameEditText_hint">Wpisz nazwisko</string>
+    <string name="activ1_gradeCountTextView">Liczba ocen</string>
+    <string name="activ1_gradeCountEditText">Wpisz liczbę ocen (5-15)</string>
+    <string name="activ1_gradesButton">OCENY</string>
+    <string name="toast_name_not_empty">Imię nie może być puste</string>
+    <string name="toast_surname_not_empty">Nazwisko nie może być puste</string>
+    <string name="toast_grade_count_not_empty">Liczba ocen nie może być pusta</string>
+    <string name="toast_grade_count_alert">Liczba ocen musi być w przedziale (5-15)</string>
+    <string name="button_count_average">OBLICZ ŚREDNIĄ</string>
+    <string name="exit_positive">Gratulacje! Otrzymujesz zaliczenie!</string>
+    <string name="exit_negative">Wysyłam podanie o zaliczenie warunkowe</string>
+    <string name="activ1_exitButton_positive">Super 😉</string>
+    <string name="activ1_exitButton_negative">Tym razem mi nie poszło</string>
+    <string name="activ1_averageTextView">Obliczona średnia:</string>
+
+    <string-array name="subjectArray">
+        <item>Struktury danych i algorytmy</item>
+        <item>Organizacja i architektura komputerów</item>
+        <item>Języki programowania i kompilatory</item>
+        <item>Systemy baz danych i projektowanie</item>
+        <item>Systemy operacyjne i projektowanie jądra</item>
+        <item>Sieci komputerowe i bezpieczeństwo</item>
+        <item>Sztuczna inteligencja i uczenie maszynowe</item>
+        <item>Interakcja człowiek-komputer i doświadczenie użytkownika</item>
+        <item>Inżynieria oprogramowania i zarządzanie projektem</item>
+        <item>Grafika komputerowa i wizualizacja</item>
+        <item>Systemy rozproszone i obliczenia w chmurze</item>
+        <item>Tworzenie aplikacji mobilnych</item>
+        <item>Tworzenie stron internetowych i projektowanie</item>
+        <item>Widzenie maszynowe i przetwarzanie obrazów</item>
+        <item>Przetwarzanie języka naturalnego i tekstów</item>
+    </string-array>
+
+
+</resources>

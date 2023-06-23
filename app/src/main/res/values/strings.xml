@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SredniaArytmetyczna</string>
+    <string name="app_name">Average_app</string>
     <string name="activ1_nameTextView">Name</string>
     <string name="activ1_nameEditText_hint">Type name</string>
     <string name="activ1_surnameTextView">Surname</string>

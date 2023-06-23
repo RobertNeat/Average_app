@@ -17,4 +17,6 @@ Android app that calculates average for student based on subject count provided 
 
 
 # Application run:
-
+<video width="600" controls>
+<source src="app_run_720.mp4" type="video/mp4">
+</video>

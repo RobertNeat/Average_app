@@ -22,11 +22,11 @@ To run application:
 # Screenshots:
 1. Application showing in app tray with specific icon:
 <img src="https://github.com/RobertNeat/Average_app/blob/main/pictures_res/app_tray.png" width="200"/>
-1. Application launch:
+2. Application launch:
 <img src="https://github.com/RobertNeat/Average_app/blob/main/pictures_res/launcher_screen.png" width="200"/>
-1. First view without any values inputted by user:
+3. First view without any values inputted by user:
 <img src="https://github.com/RobertNeat/Average_app/blob/main/pictures_res/first_view_empty.png" width="200"/>
-1. When first view is filled up there is button appearing that launches second activity:
+4. When first view is filled up there is button appearing that launches second activity:
 <img src="https://github.com/RobertNeat/Average_app/blob/main/pictures_res/first_view_filled.png" width="200"/>
-1. Second view uses recycler view that shows variable number of subjects:
+5. Second view uses recycler view that shows variable number of subjects:
 <img src="https://github.com/RobertNeat/Average_app/blob/main/pictures_res/second_view_filled.png" width="200"/>
